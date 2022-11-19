@@ -7,9 +7,9 @@ Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal 
 
 
 Technologies Used
-HTML5
-CSS3
-JavaScript
-Git
-GitHub
-Google Fonts
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Google Fonts
