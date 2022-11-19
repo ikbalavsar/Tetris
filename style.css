@@ -1,0 +1,88 @@
+*{
+  font-family: 'Dancing Script',cursive !important;
+}
+body{
+  background-color:!important;
+  background-image: linear-gradient(to right, #7dab4f  , #c2ec68)
+}
+.container{
+  display: flex;
+  grid-gap: 30px;
+  justify-content: center;
+
+}
+
+.start-btn{
+  background-color: #a9ff51;
+  width: 290px !important ;
+  height: 85px;
+  font-size: 50px !important;
+  margin-top: -288px !important;
+  border-radius: 8px;
+  border:none;
+}
+
+.row{
+  margin-left: 40px;
+}
+
+.row h3, .score{
+  font-size: 50px !important;
+}
+
+.header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: bold;
+  margin-top: 100px;
+  margin-bottom: 40px !important;
+
+}
+
+.header h2, h1 {
+  font-size: 75px !important;
+  color: #133b1f;
+
+}
+
+.grid{
+  width: 400px;200
+  height: 800px;
+
+  background-image: linear-gradient(to right, #4b793a , #133b1f);
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.grid div{
+  height: 40px;
+  width: 40px;
+
+}
+
+.tetromino{
+  background-color: #eed160;
+}
+
+.mini-grid{
+  display: flex;
+  width: 160px;
+  height: 160px;
+  flex-wrap: wrap;
+
+  background-color:#fffbee;
+
+}
+
+.mini-grid div{
+  height: 40px;
+  width: 40px;
+}
+
+.color1 {color: #133b1f;}
+.color2 {color: #29542a;}
+.color3 {color: #4b793a;}
+.color4 {color: #7dab4f;}
+.color5 {color: #c2ec68;}
