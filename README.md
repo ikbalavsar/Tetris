@@ -13,3 +13,5 @@ Technologies Used
 - Git
 - GitHub
 - Google Fonts
+
+![image](https://user-images.githubusercontent.com/98840546/202862685-1880e445-cef5-4a9f-aac0-e7d0d3ccf562.png)
